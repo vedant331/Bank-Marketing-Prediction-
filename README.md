@@ -9,7 +9,7 @@ The main objective is to analyze customer behavior and predict customer churn us
 ## Dataset
 
 Dataset Used:
-Bank Customer Churn Dataset
+Bank Customer Churn Dataset (url -https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
 ### Features
 - Credit Score
